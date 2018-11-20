@@ -9,5 +9,5 @@ Some codes written in Google's jupyter-style Collaboratory framework. Nice layou
 ### Mathematica 
 Also test out and present examples of Mathematica's machine learning fraamework (post as pdf with code included). Pre-trained MNIST Neural Network built-in, so its nice and easy to use, but I suspect that actually training NN's on Mathematica would be horridly slow given Mathematica's architecture. 
 
-Does, however, present some nice options for visualization. The NN visualization techniques built into the ML packages are very lackluster but Mathematica does otherwise have some very nice and intuitive tensor/matrix visualization techniques. Visualization on Mathematica a lot easier than standard libs, including MatPlot (but not as high-fidelty), so mathematica may very well be a good niche tool for prototyping visualizations of NN's. More to come on this.
+Does, however, present some nice options for visualization. The NN visualization techniques built into the ML packages are very lackluster but Mathematica does otherwise have some very nice and intuitive tensor/matrix visualization techniques. Visualization on Mathematica a lot easier than standard libs, including MatPlot (but typically not as high-quality), so mathematica may very well be a good niche tool for prototyping visualizations of NN's. More to come on this.
 
